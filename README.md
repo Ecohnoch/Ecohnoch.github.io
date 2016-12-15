@@ -8,7 +8,7 @@ You can visit [here](http://gaohaoyang.github.io) to see this blog.
 
 这是我的博客，基于 jekyll。我改了所有默认的样式和交互。
 
-博客访问地址：[点击这里](http://gaohaoyang.github.io)
+博客访问地址：[点击这里](www.ecohnoch.cn)
 
 
 
