@@ -25,7 +25,7 @@ icon: glyphicon-heart
 
 * email：[542305306@qq.com](mailto:{{ site.email }})
 * QQ：542305306
-* Git: www.github.com/ecohnoch
+* Git: https://www.github.com/ecohnoch
 ---
 
 ### 关于本站   
