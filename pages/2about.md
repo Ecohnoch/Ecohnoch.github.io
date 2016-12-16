@@ -9,7 +9,7 @@ icon: glyphicon-heart
 
 > 某世界一流大学.在读软件工程大二学生, 转过专业, 做过项目, 写过书。
 
-![image](http://img0.ph.126.net/EziqPnzXfAO-wqfgDLnmJg==/6631844020908643068.jpg)
+![image](http://p1.bpimg.com/581356/7a4f46d5f201c043.jpg)
 
 脱贫致富~
 
@@ -17,7 +17,7 @@ icon: glyphicon-heart
 
 心里住着一只会法术的道士, 每天钻研如何拯救世界。
 
-![image](http://img0.ph.126.net/k6N0fuFch9BosNOr2xWWwA==/6631639511748965352.jpeg)
+![image](http://p1.bpimg.com/581356/f1a8094d2e3ed4fa.jpg)
 
 ---
 
