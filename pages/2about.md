@@ -48,7 +48,8 @@ icon: glyphicon-heart
 
 #### 友情链接
 
-[我的Git~](www.github.com/ecohnoch)
+[我的Git~](https://www.github.com/ecohnoch)
+[朋友patrickcty的博客](http://patrickcty.cc/)
 Comment below to exchange link with me.  
 
 ---
