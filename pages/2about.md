@@ -50,7 +50,7 @@ icon: glyphicon-heart
 
 [我的Git~](https://www.github.com/ecohnoch)
 
-[朋友patrickcty的博客](http://patrickcty.cc/)
+[朋友patrickcty的博客](http://blog.patrickcty.cc/)
 
 Comment below to exchange link with me.  
 
