@@ -7,7 +7,7 @@
 # 安装
 
 ```
-$ easy_install ecohMd
+$ easy_install ecohMD
 ```
 
 
