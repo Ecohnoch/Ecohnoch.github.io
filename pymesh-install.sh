@@ -10,6 +10,7 @@ sudo apt-get install swig
 sudo apt-get install libeigen3-dev
 sudo apt-get install libgmp-dev
 sudo apt-get install libmpfr-dev
+sudo apt-get install git
 git clone https://github.com/qnzhou/PyMesh.git
 git submodule update --init
 export PYMESH_PATH=~/PyMesh
