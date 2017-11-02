@@ -14,8 +14,6 @@ icon: glyphicon-heart
 
 心里住着一只会法术的道士, 每天钻研如何拯救世界, 还有一只可爱的小狐狸要养~
 
-![image](http://p1.bpimg.com/581356/f1a8094d2e3ed4fa.jpg)
-
 ---
 
 ### 联系我
