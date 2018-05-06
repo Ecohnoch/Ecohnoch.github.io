@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 关于
-permalink: /about/
+title: 项目总览
+permalink: /projects/
 icon: glyphicon-heart
 ---
 
