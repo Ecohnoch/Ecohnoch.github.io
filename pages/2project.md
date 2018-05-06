@@ -6,47 +6,39 @@ icon: glyphicon-heart
 ---
 
 
-### 关于我
+# 个人代码量700行以上项目介绍
 
-> 某985大学.在读软件工程大三学生, 转过专业, 做过项目, 写过书。
+2015年9月入学
 
-这里是凤鸣的算[吐]法[槽]和数[聊]学[骚]的博客。
+2016年3月-8月参与了《叙事曲2·星空下的诺言》的移植与测试，学会了一些界面编程
 
-心里住着一只会法术的道士, 每天钻研如何拯救世界, 还有一只可爱的小狐狸要养~
+故2016年6月-2017年11月间（大一至大二上），使用界面编程完成了如下一些游戏或其他相关项目：
 
----
+* 魔塔游戏编辑器项目，项目介绍：[http://www.ecohnoch.cn/2018/01/01/shuxue73/](http://www.ecohnoch.cn/2018/01/01/shuxue73/)
+* 界面代码自动生成项目，项目介绍：[http://www.ecohnoch.cn/2018/01/01/shuxue74/](http://www.ecohnoch.cn/2018/01/01/shuxue74/)
+* 背单词软件项目，项目介绍：[http://www.ecohnoch.cn/2018/01/01/shuxue74/](http://www.ecohnoch.cn/2018/01/01/shuxue74/)
+* 图论最短路游戏，项目介绍：[https://zhuanlan.zhihu.com/p/23935337](https://zhuanlan.zhihu.com/p/23935337)
 
-### 联系我
+2016年12月-2017年7月（大二上）完成了：
 
-* email：[542305306@qq.com](mailto:{{ site.email }})
-* QQ：542305306
-* Git: https://www.github.com/ecohnoch
----
+* 个人博客项目，项目介绍：[http://www.ecohnoch.cn/2018/01/01/shuxue71/](http://www.ecohnoch.cn/2018/01/01/shuxue71/)
+* JAVA分布式文件系统项目，项目介绍：[http://www.ecohnoch.cn/2018/01/01/shuxue76/](http://www.ecohnoch.cn/2018/01/01/shuxue76/)
 
-### 关于本站   
 
-搭建在Github提供的page里，前端框架作者见右下角，我自己改了一小部分代码。
+2017年2月起学习编译原理，2017年7-9月使用编译原理的相关技巧完成了下面项目：
 
-嗯...根据大量的反馈...把音乐全部去掉了。
+* Micro C编译器项目，项目介绍：[http://www.ecohnoch.cn/2018/01/01/shuxue70/](http://www.ecohnoch.cn/2018/01/01/shuxue70/)
+* Markdown-Html解释器，项目介绍：[http://www.ecohnoch.cn/2018/01/01/shuxue72/](http://www.ecohnoch.cn/2018/01/01/shuxue72/)
 
-留言板功能由于多说功能GG了，于是也GG了。
+# 科研项目
 
-右下角那个球有的有超链接, 其他没有的都是我曾经或者现在会的一些东西的标签。
+2017年11月-至今，在研科研项目：
 
-评论功能使用的是多说评论html插件。
+* 索尼员工离职预测与解决（主要应用深度学习、强化学习等）
 
-感谢Github, 嗯~!
+# 创业项目
 
----
+2018年3月-至今，在做创业项目：
 
-#### 友情链接
+* "小熊Writer"（主要应用自然语言处理、机器学习等）
 
-[我的Git~](https://www.github.com/ecohnoch)
-
-[朋友patrickcty的博客](http://blog.patrickcty.cc/)
-
-Comment below to exchange link with me.  
-
----
-
-只要有空一定会更新的！
