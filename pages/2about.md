@@ -12,7 +12,7 @@ icon: glyphicon-heart
 
 这里是凤鸣的算[吐]法[槽]和数[聊]学[骚]的博客。
 
-简历: [My CV](http://www.ecohnoch.cn/pdfs/cv-2019-4.pdf)。
+有妻贵族。
 
 ---
 
