@@ -23,7 +23,7 @@ You can visit [here](www.ecohnoch.cn) to see this blog.
 
 使用了我的模板并写明来源的人：   
 
-* [dreamholy](http://dreamholy.github.io/)
+* [dreamholy](https://dreamholy.github.io/)
 
 没有注明来源的人：
 
